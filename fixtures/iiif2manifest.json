@@ -1,0 +1,182 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://purl.stanford.edu/bc592pz8308/iiif/manifest",
+  "@type": "sc:Manifest",
+  "label": "L'AMERIQUE, MERIDIONALE ET SEPTENTRIONALE dressée selon les dernieres Relations et suivant les nouvelles Decouvertes dontles points principaux sont placer sur les observations de Mrs. de l[']Academie Royale des Sciences",
+  "attribution": "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137/SULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/bc592pz8308.mods",
+    "format": "application/mods+xml"
+  },
+  "metadata": [
+    {
+      "label": "Available Online",
+      "value": "<a href='https://purl.stanford.edu/bc592pz8308'>https://purl.stanford.edu/bc592pz8308</a>"
+    },
+    {
+      "label": "Title",
+      "value": "L'AMERIQUE, MERIDIONALE ET SEPTENTRIONALE dressée selon les dernieres Relations et suivant les nouvelles Decouvertes dontles points principaux sont placer sur les observations de Mrs. de l[']Academie Royale des Sciences"
+    },
+    {
+      "label": "Creator",
+      "value": "Fer, Nicolas de, 1646-1720."
+    },
+    {
+      "label": "Type",
+      "value": "map"
+    },
+    {
+      "label": "Type",
+      "value": "Digital Maps"
+    },
+    {
+      "label": "Type",
+      "value": "Early Maps"
+    },
+    {
+      "label": "Format",
+      "value": "22.5 x 31.7 cm., 22.5 x 33.1 cm. including border."
+    },
+    {
+      "label": "Description",
+      "value": "Dated 1700, with imprint, \"A Paris Chez l'Autheur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale Avec priv. du Roy, 1700.\" Issued in his: L'Atlas curieux ou le monde, Paris, 1700."
+    },
+    {
+      "label": "Description",
+      "value": "Dated 1705, with imprint, \"A Paris Chez l'Autheur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale Avec priv. du Roy, 1705.\" Issued in his: L'Atlas curieux ou le monde, Paris, 1705."
+    },
+    {
+      "label": "Description",
+      "value": "Dated 1717, with imprint: \"A Paris Chez l'Autheur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale Avec priv. du Roy\". Issued in his: L'Atlas Curieux ou le monde réprésenté dans des cartes generales et particulieres du ciel ... -- A Paris : Chez I. F. Benar [Bernard] Gendre de l’Auteur ... , 1725."
+    },
+    {
+      "label": "Description",
+      "value": "1740, with new imprint \" A Paris Chez G. Danet sur le Pont de Notre Dame a la Sphere Royale\"."
+    },
+    {
+      "label": "Description",
+      "value": "Wagner 482; Tooley 61; Leighly 105; BN FER I(5), FER IIC(9), FER XIB(6); UCB); Nordenskïold Collection, I,72 (7)."
+    },
+    {
+      "label": "Description",
+      "value": "\"Echelle 20 degrez de l'Equateur qui sont 400. grad. Lieües de france a 20 au degré. \""
+    },
+    {
+      "label": "Description",
+      "value": "Par N. de Fer."
+    },
+    {
+      "label": "Description",
+      "value": "Issued in his: Atlas ou recüeil de cartes geographiques, Paris, 1709-[28]. Reissued in his: Introduction a la geographie avec une description historique sur touttes [sic]les parties de la terre, Paris, 1717. (Entry TP 13)"
+    },
+    {
+      "label": "Description",
+      "value": "California with indented northern coast; Agubela de Cato to north. Includes partial outline on Nouvelle Zeelande. Engraved by: C. Inselin Scripsic. (within scale cartouche, lower right). Title cartouche, rectangle with scrollwork (lower left). Dedication: Dressée et dediée a nosseigneurs les enfans de France. Par leur tres humble et tres obeissant serviteur de Fer. Geog. de Mgr. LeDauphin (within crowned cartouche, upper left)."
+    },
+    {
+      "label": "Subject",
+      "value": "America--Maps"
+    },
+    {
+      "label": "Subject",
+      "value": "California as an island--Maps"
+    },
+    {
+      "label": "Coverage",
+      "value": "[ca.1:60,000,000]."
+    },
+    {
+      "label": "Coverage",
+      "value": "W 160° --E 20°/N 90° --S 90°"
+    },
+    {
+      "label": "Date",
+      "value": "1700"
+    },
+    {
+      "label": "Identifier",
+      "value": "135"
+    },
+    {
+      "label": "Identifier",
+      "value": "135-01"
+    },
+    {
+      "label": "Identifier",
+      "value": "https://purl.stanford.edu/bc592pz8308"
+    },
+    {
+      "label": "Relation",
+      "value": "The Glen McLaughlin Map Collection of California as an Island"
+    },
+    {
+      "label": "PublishDate",
+      "value": "2024-05-08T12:45:47Z"
+    }
+  ],
+  "description": "Dated 1700, with imprint, \"A Paris Chez l'Autheur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale Avec priv. du Roy, 1700.\" Issued in his: L'Atlas curieux ou le monde, Paris, 1700.",
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/bc592pz8308/bc592pz8308_05_0001/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/bc592pz8308/bc592pz8308_05_0001",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    },
+    "width": 400,
+    "height": 300
+  },
+  "sequences": [
+    {
+      "@id": "https://purl.stanford.edu/bc592pz8308/iiif/manifest#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://purl.stanford.edu/bc592pz8308/iiif/canvas/cocina-fileSet-bc592pz8308-bc592pz8308_1",
+          "@type": "sc:Canvas",
+          "label": "0001",
+          "height": 7579,
+          "width": 10108,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bc592pz8308/bc592pz8308_05_0001.jp2",
+              "label": "Original source file (13.7 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/bc592pz8308/iiif/annotation/cocina-fileSet-bc592pz8308-bc592pz8308_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bc592pz8308/bc592pz8308_05_0001/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7579,
+                "width": 10108,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/bc592pz8308/bc592pz8308_05_0001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/bc592pz8308/iiif/canvas/cocina-fileSet-bc592pz8308-bc592pz8308_1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
